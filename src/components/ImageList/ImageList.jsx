@@ -1,6 +1,5 @@
 import { ImageListItem } from "../ImageListItem/ImageListItem";
 import "./ImageList.css";
-
 export function ImageList({ imgList }) {
     return (
         <div>
